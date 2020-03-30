@@ -41,6 +41,7 @@
 /home/robond/workspace/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/controller_manager_msgs_generate_messages_cpp.dir
 /home/robond/workspace/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/simple_arm_generate_messages.dir
 /home/robond/workspace/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/std_msgs_generate_messages_nodejs.dir
+/home/robond/workspace/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/look_away.dir
 /home/robond/workspace/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/simple_arm_generate_messages_lisp.dir
 /home/robond/workspace/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/controller_manager_msgs_generate_messages_lisp.dir
 /home/robond/workspace/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/roscpp_generate_messages_lisp.dir
