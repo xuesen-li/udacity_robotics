@@ -131,6 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/xuesen/udacity_robotics/catkin_ws/build/gtest/cmake_install.cmake")
+  include("/home/xuesen/udacity_robotics/catkin_ws/build/my_robot/cmake_install.cmake")
   include("/home/xuesen/udacity_robotics/catkin_ws/build/simple_arm/cmake_install.cmake")
 
 endif()

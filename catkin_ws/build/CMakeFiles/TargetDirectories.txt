@@ -35,6 +35,14 @@
 /home/xuesen/udacity_robotics/catkin_ws/build/gtest/googlemock/gtest/CMakeFiles/list_install_components.dir
 /home/xuesen/udacity_robotics/catkin_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir
 /home/xuesen/udacity_robotics/catkin_ws/build/gtest/googlemock/gtest/CMakeFiles/rebuild_cache.dir
+/home/xuesen/udacity_robotics/catkin_ws/build/my_robot/CMakeFiles/install/strip.dir
+/home/xuesen/udacity_robotics/catkin_ws/build/my_robot/CMakeFiles/install/local.dir
+/home/xuesen/udacity_robotics/catkin_ws/build/my_robot/CMakeFiles/test.dir
+/home/xuesen/udacity_robotics/catkin_ws/build/my_robot/CMakeFiles/list_install_components.dir
+/home/xuesen/udacity_robotics/catkin_ws/build/my_robot/CMakeFiles/edit_cache.dir
+/home/xuesen/udacity_robotics/catkin_ws/build/my_robot/CMakeFiles/_catkin_empty_exported_target.dir
+/home/xuesen/udacity_robotics/catkin_ws/build/my_robot/CMakeFiles/rebuild_cache.dir
+/home/xuesen/udacity_robotics/catkin_ws/build/my_robot/CMakeFiles/install.dir
 /home/xuesen/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/install/strip.dir
 /home/xuesen/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/list_install_components.dir
 /home/xuesen/udacity_robotics/catkin_ws/build/simple_arm/CMakeFiles/edit_cache.dir

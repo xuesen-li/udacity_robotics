@@ -13,6 +13,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin/catkin_generated/version/package.cmake"
   "catkin_generated/installspace/_setup_util.py"
   "catkin_generated/order_packages.cmake"
+  "my_robot/catkin_generated/package.cmake"
   "simple_arm/catkin_generated/ordered_paths.cmake"
   "simple_arm/catkin_generated/package.cmake"
   "simple_arm/catkin_generated/simple_arm-msg-extras.cmake.develspace.in"
@@ -20,6 +21,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "simple_arm/cmake/simple_arm-genmsg.cmake"
   "/home/xuesen/udacity_robotics/catkin_ws/devel/share/simple_arm/cmake/simple_arm-msg-paths.cmake"
   "/home/xuesen/udacity_robotics/catkin_ws/src/CMakeLists.txt"
+  "/home/xuesen/udacity_robotics/catkin_ws/src/my_robot/CMakeLists.txt"
+  "/home/xuesen/udacity_robotics/catkin_ws/src/my_robot/package.xml"
   "/home/xuesen/udacity_robotics/catkin_ws/src/simple_arm/CMakeLists.txt"
   "/home/xuesen/udacity_robotics/catkin_ws/src/simple_arm/package.xml"
   "/opt/ros/melodic/share/catkin/cmake/../package.xml"
@@ -221,6 +224,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/googlemock/gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "my_robot/CMakeFiles/CMakeDirectoryInformation.cmake"
   "simple_arm/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
@@ -235,6 +239,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "gtest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
   "gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
   "gtest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "my_robot/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake"
   "simple_arm/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/DependInfo.cmake"
   "simple_arm/CMakeFiles/std_msgs_generate_messages_eus.dir/DependInfo.cmake"
   "simple_arm/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/DependInfo.cmake"
