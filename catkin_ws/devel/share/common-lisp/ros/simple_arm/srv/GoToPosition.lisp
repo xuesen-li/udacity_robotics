@@ -167,10 +167,10 @@
   "eb45b449ee9f05b300349d9c9af72154")
 (cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql '<GoToPosition-response>)))
   "Returns full string definition for message of type '<GoToPosition-response>"
-  (cl:format cl:nil "string msg_feedback~%~%~%"))
+  (cl:format cl:nil "string msg_feedback~%~%~%~%"))
 (cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql 'GoToPosition-response)))
   "Returns full string definition for message of type 'GoToPosition-response"
-  (cl:format cl:nil "string msg_feedback~%~%~%"))
+  (cl:format cl:nil "string msg_feedback~%~%~%~%"))
 (cl:defmethod roslisp-msg-protocol:serialization-length ((msg <GoToPosition-response>))
   (cl:+ 0
      4 (cl:length (cl:slot-value msg 'msg_feedback))

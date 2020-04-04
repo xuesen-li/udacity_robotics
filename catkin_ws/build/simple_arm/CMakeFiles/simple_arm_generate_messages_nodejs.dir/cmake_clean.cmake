@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/simple_arm_generate_messages_nodejs"
-  "/home/robond/workspace/udacity_robotics/catkin_ws/devel/share/gennodejs/ros/simple_arm/srv/GoToPosition.js"
+  "/home/xuesen/udacity_robotics/catkin_ws/devel/share/gennodejs/ros/simple_arm/srv/GoToPosition.js"
 )
 
 # Per-language clean rules from dependency scanning.

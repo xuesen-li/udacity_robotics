@@ -122,6 +122,7 @@
 float64 joint_2
 ---
 string msg_feedback
+
 ")
 
 (setf (get simple_arm::GoToPositionResponse :md5sum-) "eb45b449ee9f05b300349d9c9af72154")
@@ -131,6 +132,7 @@ string msg_feedback
 float64 joint_2
 ---
 string msg_feedback
+
 ")
 
 

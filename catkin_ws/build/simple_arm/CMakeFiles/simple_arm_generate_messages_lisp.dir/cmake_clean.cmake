@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/simple_arm_generate_messages_lisp"
-  "/home/robond/workspace/udacity_robotics/catkin_ws/devel/share/common-lisp/ros/simple_arm/srv/GoToPosition.lisp"
+  "/home/xuesen/udacity_robotics/catkin_ws/devel/share/common-lisp/ros/simple_arm/srv/GoToPosition.lisp"
 )
 
 # Per-language clean rules from dependency scanning.

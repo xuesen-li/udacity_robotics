@@ -160,6 +160,7 @@ class GoToPositionResponse {
     return `
     string msg_feedback
     
+    
     `;
   }
 

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/look_away.dir/src/look_away.cpp.o"
-  "/home/robond/workspace/udacity_robotics/catkin_ws/devel/lib/simple_arm/look_away.pdb"
-  "/home/robond/workspace/udacity_robotics/catkin_ws/devel/lib/simple_arm/look_away"
+  "/home/xuesen/udacity_robotics/catkin_ws/devel/lib/simple_arm/look_away.pdb"
+  "/home/xuesen/udacity_robotics/catkin_ws/devel/lib/simple_arm/look_away"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -125,6 +125,7 @@ class GoToPositionResponse(genpy.Message):
   _type = "simple_arm/GoToPositionResponse"
   _has_header = False #flag to mark the presence of a Header object
   _full_text = """string msg_feedback
+
 """
   __slots__ = ['msg_feedback']
   _slot_types = ['string']
