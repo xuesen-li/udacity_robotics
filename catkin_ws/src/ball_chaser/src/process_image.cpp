@@ -47,17 +47,17 @@ void process_image_callback(const sensor_msgs::Image img)
     }
     else if (position < 1* img.step / 3  )
     {
-        drive_robot(0.1, 0.1);
+        drive_robot(0.1, 0.5);
         ROS_INFO("BALL IS AT LEFT SIDE");
     }
     else if (position > 2 * img.step / 3 )
     {
-        drive_robot(0.1, -0.1);
+        drive_robot(0.1, -0.5);
         ROS_INFO("BALL IS AT RIGHT SIDE");
     }
     else
     {
-        drive_robot(0, 0);
+        drive_robot(0.1, 0);
         ROS_INFO("BALL IS AT CENTER");
     }
 }

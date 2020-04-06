@@ -15,9 +15,7 @@
 
   <!-- World File -->
   <!-- <arg name="world_file" default="$(find my_robot)/worlds/empty.world"/> -->
-  <arg name="world_file" default="$(find my_robot)/worlds/xuesenOffice.world"/>
-
-
+  <arg name="world_file" default="$(find my_robot)/worlds/XuesensOffice.world"/>
 
 
   <!-- Launch Gazebo World -->
