@@ -1,2 +1,2 @@
-my_robot:simple_arm
+ball_chaser:my_robot:simple_arm:turtlebot_simulator/turtlebot_gazebo:turtlebot_simulator/turtlebot_simulator:turtlebot_simulator/turtlebot_stage:turtlebot_simulator/turtlebot_stdr
 -DCATKIN_DEVEL_PREFIX=/home/xuesen/udacity_robotics/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xuesen/udacity_robotics/catkin_ws/install -G Unix Makefiles

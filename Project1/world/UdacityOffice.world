@@ -1813,7 +1813,7 @@
           </surface>
         </collision>
       </link>
-      <joint name='link_0_JOINT_0' type='revolute'>
+      <joint name='link_0_JOINT_0' type='fixed'>
         <parent>link_0</parent>
         <child>link_2</child>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -1845,7 +1845,7 @@
           </ode>
         </physics>
       </joint>
-      <joint name='link_0_JOINT_1' type='revolute'>
+      <joint name='link_0_JOINT_1' type='fixed'>
         <parent>link_0</parent>
         <child>link_2_clone</child>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -1877,7 +1877,7 @@
           </ode>
         </physics>
       </joint>
-      <joint name='link_2_JOINT_2' type='revolute'>
+      <joint name='link_2_JOINT_2' type='fixed'>
         <parent>link_2</parent>
         <child>link_1_clone</child>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -1909,7 +1909,7 @@
           </ode>
         </physics>
       </joint>
-      <joint name='link_2_clone_JOINT_3' type='revolute'>
+      <joint name='link_2_clone_JOINT_3' type='fixed'>
         <parent>link_2_clone</parent>
         <child>link_1_clone_clone</child>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -2440,7 +2440,7 @@
           </surface>
         </collision>
       </link>
-      <joint name='link_0_JOINT_0' type='revolute'>
+      <joint name='link_0_JOINT_0' type='fixed'>
         <parent>link_0</parent>
         <child>link_2</child>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -2472,7 +2472,7 @@
           </ode>
         </physics>
       </joint>
-      <joint name='link_0_JOINT_1' type='revolute'>
+      <joint name='link_0_JOINT_1' type='fixed'>
         <parent>link_0</parent>
         <child>link_2_clone</child>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -2504,7 +2504,7 @@
           </ode>
         </physics>
       </joint>
-      <joint name='link_2_JOINT_2' type='revolute'>
+      <joint name='link_2_JOINT_2' type='fixed'>
         <parent>link_2</parent>
         <child>link_1_clone</child>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -2536,7 +2536,7 @@
           </ode>
         </physics>
       </joint>
-      <joint name='link_2_clone_JOINT_3' type='revolute'>
+      <joint name='link_2_clone_JOINT_3' type='fixed'>
         <parent>link_2_clone</parent>
         <child>link_1_clone_clone</child>
         <pose frame=''>0 0 0 0 -0 0</pose>

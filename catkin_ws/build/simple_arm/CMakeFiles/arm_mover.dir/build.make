@@ -101,7 +101,6 @@ arm_mover_EXTERNAL_OBJECTS =
 /home/xuesen/udacity_robotics/catkin_ws/devel/lib/simple_arm/arm_mover: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
 /home/xuesen/udacity_robotics/catkin_ws/devel/lib/simple_arm/arm_mover: /opt/ros/melodic/lib/libroscpp.so
 /home/xuesen/udacity_robotics/catkin_ws/devel/lib/simple_arm/arm_mover: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
-/home/xuesen/udacity_robotics/catkin_ws/devel/lib/simple_arm/arm_mover: /usr/lib/x86_64-linux-gnu/libboost_signals.so
 /home/xuesen/udacity_robotics/catkin_ws/devel/lib/simple_arm/arm_mover: /opt/ros/melodic/lib/librosconsole.so
 /home/xuesen/udacity_robotics/catkin_ws/devel/lib/simple_arm/arm_mover: /opt/ros/melodic/lib/librosconsole_log4cxx.so
 /home/xuesen/udacity_robotics/catkin_ws/devel/lib/simple_arm/arm_mover: /opt/ros/melodic/lib/librosconsole_backend_interface.so
